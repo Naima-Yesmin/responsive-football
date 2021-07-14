@@ -282,6 +282,9 @@ button:hover{
     .footer-logo-icon p{
         font-size: 13px;
     }
+    .footer-logo-icon p{
+        font-size: 10px;
+    }
     
 }
 
@@ -410,7 +413,6 @@ button:hover{
     }
     
     .footer-logo-icon p{
-        font-size: 15px;
+        font-size: 10px;
     }
-    
 }
